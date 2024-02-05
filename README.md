@@ -1,0 +1,1 @@
+# Adaptive-HTML-email-PizzaShop
